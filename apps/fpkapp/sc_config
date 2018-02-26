@@ -1,0 +1,9 @@
+var fpkapp = BT.AppBuilder.create({
+  name: 'fpkapp',
+  path: dirname(),
+  theme: 'sproutcore:aki',
+  title: 'Fpkapp',
+  modules: ['common_assets:admin', 'common_assets:issue_tracker'],
+  frameworks: ['common_assets'],
+  languages: ['en']
+});

@@ -1,0 +1,1 @@
+CA.CAA.myObjectController = SC.ObjectController.create();

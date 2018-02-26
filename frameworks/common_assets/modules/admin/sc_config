@@ -1,0 +1,5 @@
+BT.addFramework(BT.Framework.extend({
+  ref: 'common_assets:admin',
+  isModule: true,
+  path: dirname()
+}));

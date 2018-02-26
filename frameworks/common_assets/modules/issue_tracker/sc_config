@@ -1,0 +1,5 @@
+BT.addFramework(BT.Framework.extend({
+  ref: 'common_assets:issue_tracker',
+  isModule: true,
+  path: dirname()
+}));
