@@ -4,6 +4,5 @@ sc_require('modules/issue_tracker/sc_config');
 BT.addFramework(BT.Framework.extend({
   ref: "common_assets",
   //modules: ["common_assets:admin", "common_assets:issue_tracker"],
-  path: dirname(),
-  isWrapperFramework: true
+  path: dirname()
 }));

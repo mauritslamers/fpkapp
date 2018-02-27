@@ -1,7 +1,4 @@
 
-sc_require('frameworks/common_assets/modules/admin/sc_config');
-sc_require('frameworks/common_assets/modules/issue-tracker/sc_config');
-
 sc_require('apps/fpkapp/sc_config');
 /*
 Please don't remove the following server configuration, as the build tools use it to
