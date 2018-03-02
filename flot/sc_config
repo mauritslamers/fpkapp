@@ -1,0 +1,5 @@
+//     '/ui/frameworks/flot/sc_config'
+BT.addFramework(BT.Framework.extend({
+  ref: "flot",
+  path: dirname()
+}));
